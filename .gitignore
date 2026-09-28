@@ -1,0 +1,13 @@
+# PyCharm
+.idea/
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# PyInstaller generated files
+build/
+dist/
